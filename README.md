@@ -26,9 +26,9 @@
 │       comparison_group_codebook.csv
 │       LiwenliangAllWordscount.csv
 │       LiwenliangComments_Split_sample.csv
-            // Complete dataset with comments split and classification marked.
-            // Due to the file storage limitation, here only provide examples on Github.
-            // Please assest OneDrive link below to fetch complete dataset.
+                // Complete dataset with comments split and classification marked.
+                // Due to the file storage limitation, here only provide examples on Github.
+                // Please assest OneDrive link below to fetch complete dataset.
 │       LiwenliangSampleAll.csv
 │       LiwenliangSample_Tree_Hole.csv
 │       LiwenliangSample_Whailing_Wall.csv
