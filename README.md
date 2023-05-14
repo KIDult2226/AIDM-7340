@@ -83,3 +83,8 @@ Difference = |['Wailing Wall'] - ['Tree Hole'] / (['Wailing Wall'] + ['Tree Hole
 
 The calculation rule of the "Difference" index is as follows: "Difference" is a measure of the "purity/confidence" of a word. If a word exists in a certain sentence, the higher the purity of this word, the more likely this sentence belongs to either "tree hole" or "wailing wall".
 ```
+
+#### **OneDrive External Link for Big Files:**
+(Including Models and Full Dataset)
+
+https://1drv.ms/f/s!AmIVffcWFoDC2XVpcUQcAO4kuB7p?e=IKa18b
