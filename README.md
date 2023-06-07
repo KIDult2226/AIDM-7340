@@ -3,8 +3,7 @@
 **Wailing Wall or Tree Hole? An AI Exploration of Mourning Behaviors for the Deceased on Chinese Social Media - Taking Li Wenliang as an Example**
 
 ## **Academic Poster**
-![Image Text](https://github.com/KIDult2226/AIDM-7340/blob/main/images/poster_finalfinalfinal.pdf)
-
+![Image Text](https://github.com/KIDult2226/AIDM-7340/blob/main/images/poster_finalfinalfinal_00.png)
 
 ## **Visualization Result**
 ![Average Comments Per Day](https://github.com/KIDult2226/AIDM-7340/blob/main/images/Number%20of%20Comments%20and%20Average%20Comments%20Counts%20on%20Each%20Day%20(Li%20Wenliang).png)
